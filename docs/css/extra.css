@@ -115,22 +115,20 @@ p {
 
 #home-button {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   margin: 1rem 0 1rem;
 }
 
 #home-button > a {
-  margin: auto 0.5rem;
+  white-space: nowrap;
+  margin: 0.5rem;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 400px) {
   #home-button {
     flex-direction: column;
-  }
-
-  #home-button > a {
-    margin: 0.5rem auto;
   }
 }
 
