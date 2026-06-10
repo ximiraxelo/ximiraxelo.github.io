@@ -69,17 +69,13 @@ hide:
 
 <h2 align="center"><strong>Bio</strong></h2>
 
-**English:**
+=== ":flag_us: English"
 
-<p>
-  Bachelor of Science in Control and Automation Engineering from the Federal University of Technology - Paraná (UTFPR); Master of Science in Electrical Engineering and Ph.D. candidate in Electrical Engineering at the same institution. I'm working as a researcher in the field of control systems, with a focus on LPV (Linear Parameter-Varying) systems and artificial intelligence techniques, particularly machine learning. I have conducted research in undergraduate research projects focused on the optimization of industrial problems and the estimation of parameters in LPV systems using neural networks, resulting in publications in conferences and journals. I have practical experience with Python and MATLAB, including the development of neural networks, machine learning models, algorithmic simulations, and process automation.
-</p>
+    Bachelor of Science in Control and Automation Engineering from the Federal University of Technology - Paraná (UTFPR); Master of Science in Electrical Engineering and Ph.D. candidate in Electrical Engineering at the same institution. I'm working as a researcher in the field of control systems, with a focus on LPV (Linear Parameter-Varying) systems and artificial intelligence techniques, particularly machine learning. I have conducted research in undergraduate research projects focused on the optimization of industrial problems and the estimation of parameters in LPV systems using neural networks, resulting in publications in conferences and journals. I have practical experience with Python and MATLAB, including the development of neural networks, machine learning models, algorithmic simulations, and process automation.
 
-**Portuguese:**
+=== ":flag_br: Português"
 
-<p>
-  Bacharel em Engenharia de Controle e Automação pela Universidade Tecnológica Federal do Paraná (UTFPR) - câmpus Cornélio Procópio, mestre em Engenharia Elétrica e doutorando em Engenharia Elétrica pela mesma instituição. Atua como pesquisador nas áreas de sistemas de controle, com foco em sistemas LPV (<i>Linear Parameter-Varying</i>) e em técnicas de inteligência artificial, especialmente aprendizado de máquina. Desenvolvi pesquisas em iniciações científicas voltadas à otimização de problemas industriais e à estimação de parâmetros em sistemas LPV com redes neurais, resultando em publicações em conferências e em journal. Possuo experiência prática com Python e MATLAB, incluindo desenvolvimento de redes neurais, modelos de aprendizagem de máquina, simulações algorítmicas e automação de processos.
-</p>
+    Bacharel em Engenharia de Controle e Automação pela Universidade Tecnológica Federal do Paraná (UTFPR) - câmpus Cornélio Procópio, mestre em Engenharia Elétrica e doutorando em Engenharia Elétrica pela mesma instituição. Atua como pesquisador nas áreas de sistemas de controle, com foco em sistemas LPV (*Linear Parameter-Varying*) e em técnicas de inteligência artificial, especialmente aprendizado de máquina. Desenvolvi pesquisas em iniciações científicas voltadas à otimização de problemas industriais e à estimação de parâmetros em sistemas LPV com redes neurais, resultando em publicações em conferências e em journal. Possuo experiência prática com Python e MATLAB, incluindo desenvolvimento de redes neurais, modelos de aprendizagem de máquina, simulações algorítmicas e automação de processos.
 
 ---
 
