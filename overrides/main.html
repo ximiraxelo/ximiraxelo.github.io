@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block styles %}
+  {{ super() }}
+  {% if page.is_homepage %}
+    <style>
+      .md-content__inner {
+        padding-top: 0;
+      }
+      
+      .md-main__inner {
+        margin-top: 0 !important;
+      }
+    </style>
+  {% endif %}
+{% endblock %}

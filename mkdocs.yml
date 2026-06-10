@@ -1,0 +1,101 @@
+site_name: Esdras Battosti
+site_author: Esdras Battosti
+site_description: PhD candidate in Electrical Engineering at UTFPR & Researcher in Control Systems
+# repo_url: https://github.com/ximiraxelo/esdras
+repo_name: ximiraxelo/esdras
+theme:
+  language: en
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb-on
+        name: Switch to system preference
+      primary: custom
+      accent: custom
+  font:
+    text: Inter
+    code: JetBrains Mono
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - content.tooltips
+
+plugins:
+  - search:
+      enabled: false
+
+nav:
+  - index.md
+  - Publications: publications.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin-in
+      link: https://linkedin.com/esdrasbattosti
+    - icon: simple/github
+      link: https://github.com/ximiraxelo
+    - icon: material/email
+      link: mailto:esdras.2019@alunos.utfpr.edu.br
+    - icon: simple/orcid
+      link: https://orcid.org/0000-0002-9288-6376
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Esdras-Battosti-Da-Silva
+
+copyright: Copyright &copy; 2026 Esdras Battosti
