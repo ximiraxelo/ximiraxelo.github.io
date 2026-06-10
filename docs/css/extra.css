@@ -106,7 +106,7 @@ body {
   margin: 0 auto;
   font-size: 3em;
   font-weight: 400;
-  color: var(--md-typeset-a-color);
+  color: white;
 }
 
 p {
