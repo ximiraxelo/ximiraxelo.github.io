@@ -79,6 +79,25 @@ hide:
 
 ---
 
+<h2 align="center"><strong>Journey</strong></h2>
+
+::timeline:: class="main-timeline"
+
+- content: Federal University of Technology - Paraná (UTFPR)
+  icon: ':material-progress-helper:'
+  sub_title: Feb. 2026 - Present
+  title: Ph.D Candidate in Electrical Engineering
+- content: Federal University of Technology - Paraná (UTFPR)
+  icon: ':fontawesome-solid-graduation-cap:'
+  sub_title: Aug. 2024 - Feb. 2026
+  title: M.Sc. in Electrical Engineering
+- content: Federal University of Technology - Paraná (UTFPR)
+  icon: ':fontawesome-solid-graduation-cap:'
+  sub_title: Jan. 2019 - Aug. 2024
+  title: B.Sc. in Control and Automation Engineering
+
+::/timeline::
+
 <h2 align="center" id="contact"><strong>Contact</strong></h2>
 
 

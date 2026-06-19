@@ -137,3 +137,20 @@ p {
   border-radius: 0.3rem;
   border-color: var(--md-typeset-a-color);
 }
+
+/* Timeline */
+.nt-timeline.vertical.left.main-timeline .nt-timeline-before {
+  background: linear-gradient(rgba(252, 70, 107, 0) 0%, var(--md-primary-fg-color) 100%) no-repeat 30px/2px 100%;
+}
+
+.nt-timeline.vertical.left.main-timeline .nt-timeline-items {
+  background: linear-gradient(var(--md-primary-fg-color), var(--md-primary-fg-color)) no-repeat 30px/2px 100%;
+}
+
+.nt-timeline.vertical.left.main-timeline .nt-timeline-after {
+  background: linear-gradient(var(--md-primary-fg-color) 0%, rgba(252, 70, 107, 0) 100%) no-repeat 30px/2px 100%;
+}
+
+.nt-timeline.vertical.left.main-timeline .nt-timeline-dot {
+  background-color: var(--md-primary-fg-color);
+}
