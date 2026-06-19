@@ -138,7 +138,6 @@ p {
   border-color: var(--md-typeset-a-color);
 }
 
-/* Timeline */
 .nt-timeline.vertical.left.main-timeline .nt-timeline-before {
   background: linear-gradient(rgba(252, 70, 107, 0) 0%, var(--md-primary-fg-color) 100%) no-repeat 30px/2px 100%;
 }
