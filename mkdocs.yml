@@ -52,6 +52,7 @@ plugins:
 nav:
   - index.md
   - Publications: publications.md
+  - Projects: projects.md
 
 markdown_extensions:
   - attr_list
