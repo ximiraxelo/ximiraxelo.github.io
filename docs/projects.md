@@ -11,7 +11,7 @@ A list of my personal and professional projects.
 
     A Python implementation of the [Robust LMI Parser (ROLMIP)](https://rolmip.github.io/).
 
-!!! info "[PolyAny](https://github.com/rolmip/polyany)"
+!!! info "[PolyAny](https://rolmip.github.io/polyany/)"
 
     A Python package for algebraic manipulation of multivariate polynomials.
 
