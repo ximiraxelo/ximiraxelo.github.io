@@ -13,6 +13,10 @@ hide:
 
 # Conference papers
 
+* R. P. P. D. Souza, **E. B. D. Silva**, R. M. Castro, C. M. Agulhari, A. Goedtel, and W. A. D. Souza, “Estimation of autorregressive modeling coefficients for inter-turn short circuit detection in induction motors” presented at the Congresso Brasileiro de Automática - CBA, São Paulo, SP, Brasil, Oct. 2026. [preprint](https://ojs.sba.org.br/index.php/cba/article/view/6317/5664).
+
+* P. L. Silva, **E. B. D. Silva**, and C. M. Agulhari, “Síntese de Observadores por Modos Deslizantes com Restrições de Taxa de Convergência para Sistemas Discretos Não-Lineares Sujeitos a Parâmetros Variantes no Tempo” presented at the Congresso Brasileiro de Automática - CBA, São Paulo, SP, Brasil, Oct. 2026. [preprint](https://ojs.sba.org.br/index.php/cba/article/view/6049/5396).
+
 * R. P. P. D. Souza, **E. B. D. Silva**, C. M. Agulhari, and G. M. Bressan, “Estabilidade e convergência de controladores para sistemas LPV incertos combinados com estimadores paramétricos,” presented at the Congresso Brasileiro de Automática - CBA, Rio de Janeiro, RJ, Brasil, Oct. 2024. doi: [10.20906/CBA2024/4221](https://doi.org/10.20906/CBA2024/4221).
 
 * G. M. Bressan, **E. B. D. Silva**, M. H. Pimenta-Zanon, E. A. D. S. Lizzi, and F. Sakuray, “Performance of Heuristics for Classifying Leftovers from Cutting Stock Problem,” in Optimization, Learning Algorithms and Applications, vol. 1982, A. I. Pereira, A. Mendes, F. P. Fernandes, M. F. Pacheco, J. P. Coelho, and J. Lima, Eds., in Communications in Computer and Information Science, vol. 1982. , Cham: Springer Nature Switzerland, 2024, pp. 256–268. doi: [10.1007/978-3-031-53036-4_18](https://doi.org/10.1007/978-3-031-53036-4_18).
