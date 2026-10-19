@@ -32,6 +32,11 @@ body {
 
 .md-main__inner.md-grid {
   max-width: 70vw;
+  margin-top: 0;
+}
+
+.md-header__source {
+  width: 0;
 }
 
 @media (max-width: 800px) {
@@ -64,7 +69,7 @@ body {
   width: 100vw;
   position: relative;
   margin-left: calc(50% - 50vw);
-  transform: translateY(-0.5em);
+  transform: translateY(-1.5em);
   min-height: 90vh;
   box-sizing: border-box;
   border-bottom: thick solid var(--md-typeset-a-color);
@@ -134,7 +139,6 @@ p {
 
 .md-typeset .md-button--primary {
   background-color: var(--md-typeset-a-color);
-  border-radius: 0.3rem;
   border-color: var(--md-typeset-a-color);
 }
 

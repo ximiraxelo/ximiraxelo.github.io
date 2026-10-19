@@ -1,4 +1,5 @@
 ---
+title: Home
 hide:
   - navigation
   - toc
@@ -10,10 +11,8 @@ hide:
   <h1 id="name" align="center"><strong>Esdras Battosti</strong></h1>
   
   <h2 align="center">
-    <strong>
     PhD candidate in Electrical Engineering at <a href="https://utfpr.edu.br">UTFPR</a>
     & Researcher in Control Systems
-    </strong>
   </h2>
   
   <div id="home-button">
